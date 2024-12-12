@@ -5,9 +5,8 @@ const fastify = Fastify({
 
 fastify.route({
   method: 'GET',
-  url: '/enterName',
+  url: '/health-check',
   schema: {
-    // request needs to have a querystring with a `name` parameter
     querystring: {
       type: 'object',
       properties: {
@@ -15,24 +14,50 @@ fastify.route({
       },
       required: ['name'],
     },
-    // the response needs to be an object with an `hello` property of type 'string'
     response: {
       200: {
         type: 'object',
         properties: {
-          hello: { type: 'string' }
+          healthy: { type: 'boolean' }
         }
       }
     }
   },
-  // this function is executed for every request before the handler is executed
   preHandler: async (request, reply) => {
     // E.g. check authentication
   },
   handler: async (request, reply) => {
-    return { hello: 'world' }
+    return { healthy: true }
   }
 })
+
+fastify.route({
+    method: 'GET',
+    url: '/daily-puzzle',
+    schema: {
+      querystring: {
+        type: 'object',
+        properties: {
+            name: { type: 'string'}
+        },
+        required: ['name'],
+      },
+      response: {
+        200: {
+          type: 'object',
+          properties: {
+            hello: { type: 'string' }
+          }
+        }
+      }
+    },
+    preHandler: async (request, reply) => {
+      // E.g. check authentication
+    },
+    handler: async (request, reply) => {
+      return { hello: 'daily puzzle' }
+    }
+  })
 
 try {
   await fastify.listen({ port: 3000 })
