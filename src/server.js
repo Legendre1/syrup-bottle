@@ -55,7 +55,7 @@ fastify.route({
       // E.g. check authentication
     },
     handler: async (request, reply) => {
-      return { hello: 'daily puzzle' }
+      return { hello: 'daily puzzle from ec2!' }
     }
   })
 
