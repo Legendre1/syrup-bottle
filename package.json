@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "fastify": "^5.1.0",
     "nodejs": "^0.0.0"
   }
 }
