@@ -32,6 +32,10 @@ fastify.route({
   }
 })
 
+fastify.get('/', async (request, reply) => {
+    return { hello: 'world' }
+  })
+  
 fastify.route({
     method: 'GET',
     url: '/daily-puzzle',
