@@ -1,0 +1,24 @@
+﻿{
+    "gridSize": 3,
+    "solutions": {
+        "ape": {
+            "default": "apes"
+        },
+        "sea": {
+            "default": "seas"
+        },
+        "hat": {
+            "default": "cap"
+        },
+        "ash": {
+            "default": "ash"
+        },
+        "pea": {
+            "default": "pea"
+        },
+        "eat": {
+            "default": "eat"
+        }
+    },
+    "extraLetters": "srcnlkoh"
+}
