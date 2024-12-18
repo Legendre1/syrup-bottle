@@ -1,6 +1,7 @@
 import Fastify from 'fastify'
 import cors from '@fastify/cors'
 import fs from 'fs';
+import { indexedPuzzles } from './indexed-puzzles.js';
 
 const fastify = Fastify({
   logger: true
@@ -10,37 +11,6 @@ await fastify.register(cors, {
     origin: '*'
   })
 
-fastify.route({
-  method: 'GET',
-  url: '/health-check',
-  schema: {
-    querystring: {
-      type: 'object',
-      properties: {
-          name: { type: 'string'}
-      },
-      required: ['name'],
-    },
-    response: {
-      200: {
-        type: 'object',
-        properties: {
-          healthy: { type: 'boolean' }
-        }
-      }
-    }
-  },
-  preHandler: async (request, reply) => {
-    // E.g. check authentication
-  },
-  handler: async (request, reply) => {
-    return { healthy: true }
-  }
-})
-
-fastify.get('/', async (request, reply) => {
-    return { hello: 'world' }
-  })
 
 fastify.route({
     method: 'GET',
@@ -72,6 +42,36 @@ fastify.route({
 
   fastify.route({
     method: 'GET',
+    url: '/indexed-puzzle',
+    schema: {
+      querystring: {
+        type: 'object',
+        properties: {
+            index: { type: 'number'}
+        },
+        required: ['index'],
+      },
+      response: {
+        200: {
+          type: 'object',
+          properties: {
+            puzzle: { }
+          }
+        }
+      }
+    },
+    preHandler: async (request, reply) => {
+      // E.g. check authentication
+    },
+    handler: async (request, reply) => {
+        let puzzlePath = `./puzzles/${indexedPuzzles[request.query.index]}.json`;
+        const data = fs.readFileSync(puzzlePath, { encoding: 'utf8', flag: 'r' });
+        return data;
+    }
+  })
+
+  fastify.route({
+    method: 'GET',
     url: '/puzzle',
     schema: {
       querystring: {
@@ -94,8 +94,6 @@ fastify.route({
       // E.g. check authentication
     },
     handler: async (request, reply) => {
-        console.log("request = ", request.query.name)
-        console.log("Loading json on server...")
         let puzzlePath = `./puzzles/${request.query.name}.json`;
         const data = fs.readFileSync(puzzlePath, { encoding: 'utf8', flag: 'r' });
         return data;
