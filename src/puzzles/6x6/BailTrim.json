@@ -1,0 +1,218 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "--bail",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60284
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c65c5f4fd6477440ba838eee51631214"
+                }
+            ]
+        },
+        {
+            "word": "-panda",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60286
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "903c96a50116f447fa433a412ac90801"
+                }
+            ]
+        },
+        {
+            "word": "tented",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57268
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "6c9fbcf30a0034b3fad530d425ddf0ea"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57266
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "radial",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60288
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "37b1f77c7285a4689b85280541d0b94a"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56626
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "icicle",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57588
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "77250e3ae7dab4e0da91a445aeb46bab"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55498
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "met---",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60290
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "97a9441c52299415c855583625a7e2cb"
+                }
+            ]
+        },
+        {
+            "word": "--trim",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56634
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "e0181c8890dde4053b3164c6d935a3b9"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56632
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-peace",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60292
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3204e72d1f26a4749a37d05ca16f3bea"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56302
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "bandit",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55810
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0895030840a6e4886bfbb2bce6405e48"
+                }
+            ]
+        },
+        {
+            "word": "antic-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57776
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "21e5119b4fbb1420aaf20de7df7dbeeb"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57470
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "ideal-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58592
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "a5cac27f8f2f14c67b94db11fe9f038f"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56310
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "ladle-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60294
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "36ae0c31bc9a04cefa9818cbe5c6a6f0"
+                }
+            ]
+        }
+    ],
+    "extraLetters": "trsnmawpjeuchxal"
+}

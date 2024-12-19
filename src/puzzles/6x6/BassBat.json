@@ -1,0 +1,218 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "bass--",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60892
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "da1b9a48484094ff5a1c073fee8003ad"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 59100
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "actors",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55902
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "bd5e4beae76c34bb1807d6e1cf414733"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58698
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "turnip",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60894
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "951529307b1914a9591ea4d4a08d56c0"
+                }
+            ]
+        },
+        {
+            "word": "-tease",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55942
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "d0b05b27909c640de8466c1feaf72100"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56632
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-eaten",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58992
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "86b0252fbda204bfaa52811449b1e1e1"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57952
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "--mart",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55422
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ef5348541c04d4ebaa79a2d3337770aa"
+                }
+            ]
+        },
+        {
+            "word": "bat---",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57144
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c4a73470c26cd46f8b12911bab27718e"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 60896
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "acute-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60422
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "cb1773820553948539718b2d59e7f17b"
+                }
+            ]
+        },
+        {
+            "word": "stream",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60898
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "1a7907d426b614b9c8db282aa6881ea6"
+                }
+            ]
+        },
+        {
+            "word": "sonata",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60900
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c16a19bea19304d25a59f80c2954cd9f"
+                }
+            ]
+        },
+        {
+            "word": "-riser",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57594
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "09b0e83b95f8b437e8887ba5e69e3ba2"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58846
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-spent",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60902
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "1c5dfcff9f01d4fabbb60fe53339fed8"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 59388
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        }
+    ],
+    "extraLetters": "tesnfajpjeechxal"
+}

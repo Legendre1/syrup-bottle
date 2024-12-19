@@ -1,0 +1,226 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "--cam-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56724
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "4f84828e7e182498784462ef46feceb0"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57328
+                    },
+                    "license": "CC BY-SA 3.0",
+                    "attribution": "Stahlkocher",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "score-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57330
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "52f40ee65f99f4fb39e41e9ab66105cf"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57332
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "tartan",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57334
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "30d9b3c96a7714733b1fc9dda8381fbf"
+                }
+            ]
+        },
+        {
+            "word": "indigo",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57336
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "05d7f328f17e34e7f85e332d61fb1a57"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56494
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "nooses",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57338
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c9f5997a71b72450da06d49bc6234e9c"
+                }
+            ]
+        },
+        {
+            "word": "gentry",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57340
+                    },
+                    "license": "Public Domain",
+                    "attribution": "",
+                    "UUID": "7b8fe6c60c4cd448aa5a7d3f6246ad52"
+                }
+            ]
+        },
+        {
+            "word": "-sting",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57342
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "8793286d8679c4da7b82d13a645d3d29"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57344
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-canoe",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57346
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ae7f4530924ff456d8a4d4177c8b60e3"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57348
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "cordon",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57350
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "7a46a78bf96ae48e18d35260aa6f6dc7"
+                }
+            ]
+        },
+        {
+            "word": "artist",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57352
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0661f6a3f95e948be8079161dce94795"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57354
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "meager",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57356
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0a10ae4851853493cb48e1692607a0f9"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57358
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "--nosy",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57360
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "29790334689934468921156989dac12e"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57362
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        }
+    ],
+    "extraLetters": "trsnmadpjeuchxal"
+}

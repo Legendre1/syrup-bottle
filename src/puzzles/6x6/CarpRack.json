@@ -1,0 +1,210 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "-carp-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58844
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "b4e803bdde73d43d2b5f34da45bf88e0"
+                }
+            ]
+        },
+        {
+            "word": "riser-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58846
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "be0666cf4a11e4c4db2b958c3089a496"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57594
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "apple-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58848
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "42d5bf2ad5601450a9bb482eb6934615"
+                }
+            ]
+        },
+        {
+            "word": "chiefs",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58850
+                    },
+                    "license": "Unsplash",
+                    "attribution": "",
+                    "UUID": "9fecc6ebc5d8e41ed95799c54d2064d8"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58852
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "kernel",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58854
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "102594eae7fb04febaaac63954605763"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58000
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-retry",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56728
+                    },
+                    "license": "Public Domain",
+                    "attribution": "",
+                    "UUID": "93480ef0306284259ae5faaad43015f1"
+                }
+            ]
+        },
+        {
+            "word": "-rack-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58856
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ca2fe74d3ffc44988b367428678a6118"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56072
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "cipher",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58858
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "bf2a0717a5b9f4938ad3b7fec378af5e"
+                }
+            ]
+        },
+        {
+            "word": "aspire",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57128
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "210aea40d1433433f9294b3ab0c708fb"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58860
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "relent",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58862
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ef3b2c7c2545b4d84abc8f6277703c48"
+                }
+            ]
+        },
+        {
+            "word": "prefer",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58864
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "dff6f5e80ab5e45e49d5b55826334b15"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56072
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "---sly",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58866
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "9887eca97a1e4447aa79db7772a7b16a"
+                }
+            ]
+        }
+    ],
+    "extraLetters": "trsnmadpjeuchxal"
+}

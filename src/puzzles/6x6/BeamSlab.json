@@ -1,0 +1,218 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "--beam",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56492
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "7ec70b849ea9e4a629fc6ef02906af22"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56494
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "sponge",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56496
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "1a7e1330429e3437fa391235ba06efe0"
+                }
+            ]
+        },
+        {
+            "word": "larger",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56498
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ba44299dbc93841719f827756e485a9e"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56500
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "airing",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56502
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0f9965e1ef04a49179f1c7b931632fdc"
+                }
+            ]
+        },
+        {
+            "word": "blonde",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56504
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c58dc3b4342c841e49b89b73f2b37893"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55694
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-swear",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56506
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "a1fd982964941462ebce6884cc279a32"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56508
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-slab-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56510
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0d45c6f1e76544496ad2db8e2bf960e3"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56512
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-pails",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56514
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3b610debc60884c2a8dbcb8501353b4f"
+                }
+            ]
+        },
+        {
+            "word": "borrow",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56516
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "758c20b711dd14421abbd7489062d602"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56518
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "engine",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56520
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ac6164f8b77fe43ac86021da70190d26"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56522
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "agenda",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55348
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "5a28813ced2f94c9abc170914c36db73"
+                }
+            ]
+        },
+        {
+            "word": "merger",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56524
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "6d46604d5c09b4f8daf056a85290dcc5"
+                }
+            ]
+        }
+    ],
+    "extraLetters": "trshnawpceuchyal"
+}

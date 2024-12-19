@@ -1,0 +1,242 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "-amass",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58502
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "1c2375f9cf5864e21a2e62bdc305912a"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58504
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-munch",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58506
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c316af69f27cb4c04b9577f0efc1870a"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58508
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "corner",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55552
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "e213eb89b022a429d8c5cf6c3d3e2dfb"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58510
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "redone",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58512
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "6ba6cb5a49259456ca526f07bf44dbab"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56788
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "obeyed",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58514
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "62d2b115761f84dc19c9397d3c52dcfa"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57582
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "war---",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58516
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "9fa9c60e60a2649908637a112575534c"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57868
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "--crow",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58518
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "09b39550b39344584a2fcb117bbe7ff0"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58520
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "amoeba",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58522
+                    },
+                    "license": "CC BY-SA 4.0",
+                    "attribution": "SmallRex ",
+                    "UUID": "8e6e9ea3e51f349dfab63962ddf56104"
+                }
+            ]
+        },
+        {
+            "word": "murder",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58520
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3e827e200a6f340f0acea35ab7def801"
+                }
+            ]
+        },
+        {
+            "word": "annoy-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55364
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "81d573db2884d4010b58acf7d7d4f7a7"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58524
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "scene-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56434
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "d0a27729ef9d24cd382e5705d35f6672"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56742
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "shred-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58526
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "52263832089dc44b9b10c5bef6209014"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58528
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        }
+    ],
+    "extraLetters": "tusnmazpjeucal"
+}

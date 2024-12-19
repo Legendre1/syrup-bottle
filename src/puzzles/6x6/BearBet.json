@@ -1,0 +1,210 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "bear--",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60560
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ca3ea99d6eeff4f4587dabf52de45596"
+                }
+            ]
+        },
+        {
+            "word": "export",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60562
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "81a5fb46e2e4c472f9becbbe7e32292b"
+                }
+            ]
+        },
+        {
+            "word": "tiptoe",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60564
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "b9ca73a758a33444d8f1f71fbb02700c"
+                }
+            ]
+        },
+        {
+            "word": "-lease",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55434
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "d8b78cc798b4e4fe1881294f41851caa"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 60566
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-eaten",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57954
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c32d639682b9e43c48a85c1382b6b795"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58992
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-dress",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55370
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "6f8a5e9de5e334e16bc26ebcd18f6cde"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 60096
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "bet---",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55512
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "02b91c85cf5b240b8b5bdc8c8d271e18"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 59052
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "exiled",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60568
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "91a2637052cae477eac7b0caccf7a2d9"
+                }
+            ]
+        },
+        {
+            "word": "appear",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60570
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "31d28eeb4530b4b1187e477d2826c20e"
+                }
+            ]
+        },
+        {
+            "word": "rotate",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60572
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "8f42da847f1d74f5b97ca00e17f7a42f"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56626
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-roses",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57210
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "9de039975d2af487baecb4ac111833e4"
+                }
+            ]
+        },
+        {
+            "word": "-teens",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55686
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3f4c5a089254340fbb3bf0c1cdfafa9c"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57944
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        }
+    ],
+    "extraLetters": "trsnmadpreuchval"
+}
