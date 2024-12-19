@@ -1,33 +1,33 @@
 {
-    "gridSize": 6,
+    "gridSize": 5,
     "solutions": [
         {
-            "word": "bin---",
+            "word": "-amp-",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56286
+                        "instanceID": 59820
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "0320d209df12f421fb6fd6643f2eca14"
+                    "UUID": "492ad4c248611497092635d4f7cf19ce"
                 }
             ]
         },
         {
-            "word": "adopt-",
+            "word": "flora",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56288
+                        "instanceID": 59632
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "f5912bed1397c471c9f2c23aad3fe459"
+                    "UUID": "eec1b347283864c769762bd2a8404143"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56290
+                        "instanceID": 57066
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -36,19 +36,19 @@
             ]
         },
         {
-            "word": "debris",
+            "word": "attic",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56292
+                        "instanceID": 55552
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "dfabb48bf020f41c7871e5a33569f3e2"
+                    "UUID": "e213eb89b022a429d8c5cf6c3d3e2dfb"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56294
+                        "instanceID": 55550
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -57,32 +57,19 @@
             ]
         },
         {
-            "word": "galore",
+            "word": "meter",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56296
+                        "instanceID": 61086
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "6db5b5c25d18247619b3d0f79c0780b4"
-                }
-            ]
-        },
-        {
-            "word": "eleven",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56298
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "96796f178a9b445adbc3f4ad3df1ab17"
+                    "UUID": "8cab77ac40eab4195a9c6498b4fca2bf"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56300
+                        "instanceID": 59204
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -91,19 +78,19 @@
             ]
         },
         {
-            "word": "--rest",
+            "word": "erode",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56302
+                        "instanceID": 61088
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "88d63feae826d4938a1f4f56cbb8b533"
+                    "UUID": "e0bb4da180f4546c5b814425b4aa25b8"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56304
+                        "instanceID": 55974
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -112,19 +99,19 @@
             ]
         },
         {
-            "word": "badge-",
+            "word": "-fame",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56040
+                        "instanceID": 57352
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "879067681d528461686696e1a39f7d02"
+                    "UUID": "0661f6a3f95e948be8079161dce94795"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56306
+                        "instanceID": 55892
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -133,86 +120,65 @@
             ]
         },
         {
-            "word": "ideal-",
+            "word": "alter",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56308
+                        "instanceID": 56422
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "24aaf74ac9fb044d0b8de02e12a0d946"
+                    "UUID": "26f57e15d15ed41f1a2c333a6a017d14"
+                }
+            ]
+        },
+        {
+            "word": "motto",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56840
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "7b8c4d3775fa148909f522a7a1e10864"
+                }
+            ]
+        },
+        {
+            "word": "pried",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 61090
+                    },
+                    "license": "Unsplash",
+                    "attribution": "",
+                    "UUID": "25d8025b6537a47a4a6a29d02415a0ed"
+                }
+            ]
+        },
+        {
+            "word": "-acre",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 59086
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3d50ac157f23d497ca40b0c6ea3ebc14"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56310
+                        "instanceID": 56742
                     },
                     "license": "Pexels",
                     "attribution": "",
                     "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "nobler",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56312
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "2e30c5315e20445aab95002e5c2f6362"
-                }
-            ]
-        },
-        {
-            "word": "-prove",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56314
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "768e876a0fffd438280b899f8ab8b19e"
-                }
-            ]
-        },
-        {
-            "word": "-tires",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56316
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "8378f419c17d74aa2adc1fabd13d6199"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 56318
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "--sent",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56320
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "9e15faee3b6d449fd88cf5bbf7e32cab"
                 }
             ]
         }
     ],
-    "extraLetters": "trsnmadpjeuchl"
+    "extraLetters": "fnsjtqibfa"
 }

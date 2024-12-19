@@ -1,59 +1,20 @@
 {
-    "gridSize": 6,
+    "gridSize": 5,
     "solutions": [
         {
-            "word": "bear--",
+            "word": "sagas",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 60560
+                        "instanceID": 56412
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "ca3ea99d6eeff4f4587dabf52de45596"
-                }
-            ]
-        },
-        {
-            "word": "export",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 60562
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "81a5fb46e2e4c472f9becbbe7e32292b"
-                }
-            ]
-        },
-        {
-            "word": "tiptoe",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 60564
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "b9ca73a758a33444d8f1f71fbb02700c"
-                }
-            ]
-        },
-        {
-            "word": "-lease",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55434
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "d8b78cc798b4e4fe1881294f41851caa"
+                    "UUID": "3f68f5bf342134e859e88d36fc2ba8c9"
                 },
                 {
                     "sprite": {
-                        "instanceID": 60566
+                        "instanceID": 58338
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -62,130 +23,46 @@
             ]
         },
         {
-            "word": "-eaten",
+            "word": "adele",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57954
+                        "instanceID": 60312
                     },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "c32d639682b9e43c48a85c1382b6b795"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 58992
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
+                    "license": "CC BY 2.0",
+                    "attribution": "CHRISTOPHER MACSURAK - Flickr",
+                    "UUID": "d254873d67d5942d89d0533b4b5f0fe1"
                 }
             ]
         },
         {
-            "word": "-dress",
+            "word": "boole",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 55370
+                        "instanceID": 60314
                     },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "6f8a5e9de5e334e16bc26ebcd18f6cde"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 60096
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
+                    "license": "Stocksnap CC0",
+                    "attribution": "Tim Sullivan",
+                    "UUID": "425f4606692c94816afdf49e4b6285b0"
                 }
             ]
         },
         {
-            "word": "bet---",
+            "word": "order",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 55512
+                        "instanceID": 56974
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "02b91c85cf5b240b8b5bdc8c8d271e18"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 59052
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
+                    "UUID": "9aea51761125441f58d4d6dadbeed7a5"
                 }
             ]
         },
         {
-            "word": "exiled",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 60568
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "91a2637052cae477eac7b0caccf7a2d9"
-                }
-            ]
-        },
-        {
-            "word": "appear",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 60570
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "31d28eeb4530b4b1187e477d2826c20e"
-                }
-            ]
-        },
-        {
-            "word": "rotate",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 60572
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "8f42da847f1d74f5b97ca00e17f7a42f"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 56626
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "-roses",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57210
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "9de039975d2af487baecb4ac111833e4"
-                }
-            ]
-        },
-        {
-            "word": "-teens",
+            "word": "teens",
             "hintImages": [
                 {
                     "sprite": {
@@ -204,7 +81,96 @@
                     "UUID": ""
                 }
             ]
+        },
+        {
+            "word": "sabot",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60316
+                    },
+                    "license": "CC BY-SA 2.5",
+                    "attribution": "Thesupermat",
+                    "UUID": "aa2200bebdcb74873937879064e50a51"
+                }
+            ]
+        },
+        {
+            "word": "adore",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55352
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "43a718dc6febd4b79abd79f83eb1feae"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55448
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "geode",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 59664
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "fc8d37de4cdfe4e068d322a86adfc577"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 60318
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "allen",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60320
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "16a8cf93017d444619e5ae632a4df1ab"
+                }
+            ]
+        },
+        {
+            "word": "seers",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 60322
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3b49d7dc1e4ef4669a20f0bddd437f17"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55278
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
         }
     ],
-    "extraLetters": "trsadpreuchval"
+    "extraLetters": "nfghtyaiwr"
 }
