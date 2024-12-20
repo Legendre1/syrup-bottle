@@ -40,43 +40,10 @@ fastify.route({
       // E.g. check authentication
     },
     handler: async (request, reply) => {
-
-      console.log('getting daily puzzle');
-
       const now = new Date(); 
-      console.log("now is " + now);
       const timestamp = now.getTime();
       const puzzleIndex = getPuzzleForDay(timestamp);
-
       return loadPuzzleByPath(indexedPuzzles[puzzleIndex])
-    }
-  })
-
-  fastify.route({
-    method: 'GET',
-    url: '/indexed-puzzle',
-    schema: {
-      querystring: {
-        type: 'object',
-        properties: {
-            index: { type: 'number'}
-        },
-        required: ['index'],
-      },
-      response: {
-        200: {
-          type: 'object',
-          properties: {
-            puzzle: { }
-          }
-        }
-      }
-    },
-    preHandler: async (request, reply) => {
-      // E.g. check authentication
-    },
-    handler: async (request, reply) => {
-        return loadPuzzleByPath(indexedPuzzles[request.query.index])
     }
   })
 
