@@ -2,10 +2,17 @@ import Fastify from 'fastify'
 import cors from '@fastify/cors'
 import fs from 'fs';
 import { indexedPuzzles } from './indexed-puzzles.js';
+import { getPuzzleForDay } from './puzzle-schedule.js';
 
 const fastify = Fastify({
   logger: true
 })
+
+const loadPuzzleByPath = ((path) => {
+  let puzzlePath = `./puzzles/${path}.json`;
+  const data = fs.readFileSync(puzzlePath, { encoding: 'utf8', flag: 'r' });
+  return data;
+});
 
 await fastify.register(cors, {
     origin: '*'
@@ -18,10 +25,7 @@ fastify.route({
     schema: {
       querystring: {
         type: 'object',
-        properties: {
-            name: { type: 'string'}
-        },
-        required: ['name'],
+
       },
       response: {
         200: {
@@ -36,7 +40,15 @@ fastify.route({
       // E.g. check authentication
     },
     handler: async (request, reply) => {
-      return { hello: 'daily puzzle from ec2!' }
+
+      console.log('getting daily puzzle');
+
+      const now = new Date(); 
+      console.log("now is " + now);
+      const timestamp = now.getTime();
+      const puzzleIndex = getPuzzleForDay(timestamp);
+
+      return loadPuzzleByPath(indexedPuzzles[puzzleIndex])
     }
   })
 
@@ -64,9 +76,7 @@ fastify.route({
       // E.g. check authentication
     },
     handler: async (request, reply) => {
-        let puzzlePath = `./puzzles/${indexedPuzzles[request.query.index]}.json`;
-        const data = fs.readFileSync(puzzlePath, { encoding: 'utf8', flag: 'r' });
-        return data;
+        return loadPuzzleByPath(indexedPuzzles[request.query.index])
     }
   })
 
@@ -94,9 +104,7 @@ fastify.route({
       // E.g. check authentication
     },
     handler: async (request, reply) => {
-        let puzzlePath = `./puzzles/${request.query.name}.json`;
-        const data = fs.readFileSync(puzzlePath, { encoding: 'utf8', flag: 'r' });
-        return data;
+        return loadPuzzleByPath(request.query.name)
     }
   })
 
