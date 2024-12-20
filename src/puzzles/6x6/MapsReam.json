@@ -2,58 +2,157 @@
     "gridSize": 6,
     "solutions": [
         {
-            "word": "atom--",
+            "word": "--ream",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57064
+                        "instanceID": 56956
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "ed90f7dd023d14ff89a2b28b04dada46"
-                }
-            ]
-        },
-        {
-            "word": "shrub-",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57066
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "56e5c13659ef84339a20aa36ce57a51a"
-                }
-            ]
-        },
-        {
-            "word": "huddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57068
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "cce7b0af2a570459e9e94e6ced770efa"
-                }
-            ]
-        },
-        {
-            "word": "-media",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55542
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "03c1e9b82a4394587964a4fbc1499e62"
+                    "UUID": "b3e424a1d558f493aa0b816a02ad4644"
                 },
                 {
                     "sprite": {
-                        "instanceID": 55544
+                        "instanceID": 56906
+                    },
+                    "license": "Unsplash",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "-sauna",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57524
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "feca72eb330014bcda05e20ff7ab695c"
+                }
+            ]
+        },
+        {
+            "word": "matron",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57526
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "86178e655d182440c83288d4d9c92ce3"
+                }
+            ]
+        },
+        {
+            "word": "alter-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57528
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "247a73ba7d7854ce2867434d86476475"
+                }
+            ]
+        },
+        {
+            "word": "polka-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57530
+                    },
+                    "license": "CC BY 2.0",
+                    "attribution": "genvessel",
+                    "UUID": "ce1de5507ba4e46248201f274d37100d"
+                }
+            ]
+        },
+        {
+            "word": "sneak-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57532
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "f212108c70c9c4c8cb9817bec7556ff3"
+                }
+            ]
+        },
+        {
+            "word": "--maps",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57534
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "1b7bbaecc95d94ce49d80aa479f117c8"
+                }
+            ]
+        },
+        {
+            "word": "-salon",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57536
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "91e3c74d64f084246a6038f1cc0d55b2"
+                }
+            ]
+        },
+        {
+            "word": "rattle",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57538
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "e668ca6a162b24d3f81a79fdea30901f"
+                }
+            ]
+        },
+        {
+            "word": "eureka",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57540
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c0beb6a72797a42a2987f30c20e787c4"
+                }
+            ]
+        },
+        {
+            "word": "anorak",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57542
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "19de48632546d4494be6afecb3145566"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57544
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -62,142 +161,19 @@
             ]
         },
         {
-            "word": "-balms",
+            "word": "man---",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57070
+                        "instanceID": 57546
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "90375f85c15d04a3299ccc20cff4b665"
-                }
-            ]
-        },
-        {
-            "word": "-slept",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56304
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e3a8f571691a941cc8e98e90163429cc"
+                    "UUID": "a6f24afd8de234b52a03d82f797323e6"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56302
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "ash---",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55426
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "5998452c7eb46475780ce3e17c606854"
-                }
-            ]
-        },
-        {
-            "word": "thumbs",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57072
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e989d38cf3aa245ba96a36144276514e"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57074
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "ordeal",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57076
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "05ce96402241a428da43135ddc0746a3"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57078
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "muddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57080
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "72d1e486e41f24b99b127ded7d792eca"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57082
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "-blimp",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57084
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "a88a3ea711dc443feb938c6cb2ad132f"
-                }
-            ]
-        },
-        {
-            "word": "--east",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57086
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "f01957dd957d940edb32e93fd1ff1e7f"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57088
+                        "instanceID": 56584
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -206,5 +182,5 @@
             ]
         }
     ],
-    "extraLetters": "trsnmeuchzal"
+    "extraLetters": "trsnmadpucal"
 }

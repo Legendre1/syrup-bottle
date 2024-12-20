@@ -1,0 +1,178 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "--off-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58632
+                    },
+                    "license": "Pexels",
+                    "attribution": "Artim Bliaikin",
+                    "UUID": "c2d5c349d97d144ea917348b2be0d0f3"
+                }
+            ]
+        },
+        {
+            "word": "-brief",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58634
+                    },
+                    "license": "Pexels",
+                    "attribution": "ICSA",
+                    "UUID": "3474336563a2c4be58148b0e3e38ab0b"
+                }
+            ]
+        },
+        {
+            "word": "leaner",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58636
+                    },
+                    "license": "Pexels",
+                    "attribution": "Eiliv Aceron",
+                    "UUID": "efc2a451758ec4a2aa52aadf4d63b2f2"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58638
+                    },
+                    "license": "Pexels",
+                    "attribution": "Eiliv Aceron",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "arcade",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58640
+                    },
+                    "license": "Pexels",
+                    "attribution": "Mikechie Esperegoza",
+                    "UUID": "a4b975fd19dfe4af49ef1e9cdce105eb"
+                }
+            ]
+        },
+        {
+            "word": "pellet",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55756
+                    },
+                    "license": "Public Domain",
+                    "attribution": "",
+                    "UUID": "94c632c819d494c7ab08d6b3dc829ce6"
+                }
+            ]
+        },
+        {
+            "word": "steers",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58642
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3897aed58aa134c3fad056fe93eea096"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 58644
+                    },
+                    "license": "Pexels",
+                    "attribution": "Tim  Samuel",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "--laps",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58646
+                    },
+                    "license": "Pexels",
+                    "attribution": "Andrea Piacquadio",
+                    "UUID": "30cdcef582a784869a968b367e004bcc"
+                }
+            ]
+        },
+        {
+            "word": "-beret",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58648
+                    },
+                    "license": "Pexels",
+                    "attribution": "Jenna Hamra",
+                    "UUID": "4a314f2c7a620489e938130fe1583bc2"
+                }
+            ]
+        },
+        {
+            "word": "oracle",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55278
+                    },
+                    "license": "Pexels",
+                    "attribution": "Cottonbro",
+                    "UUID": "c28413740fa4f4fad840f9299b7eb028"
+                }
+            ]
+        },
+        {
+            "word": "finale",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58650
+                    },
+                    "license": "Pexels",
+                    "attribution": "Anna-Louise",
+                    "UUID": "60ef681ddd6064b4d8b9d4a43abc03f0"
+                }
+            ]
+        },
+        {
+            "word": "feeder",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58652
+                    },
+                    "license": "Pexels",
+                    "attribution": "Lucas Pezeta",
+                    "UUID": "4c063e53e58c148e2970f2ed6e08fdde"
+                }
+            ]
+        },
+        {
+            "word": "-frets",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58654
+                    },
+                    "license": "Pexels",
+                    "attribution": "Ruslan Alekso",
+                    "UUID": "3a3aa79ab657540deb115dd83fdd468b"
+                }
+            ]
+        }
+    ],
+    "extraLetters": "trsadpeuchal"
+}

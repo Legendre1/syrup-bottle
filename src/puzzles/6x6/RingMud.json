@@ -1,0 +1,170 @@
+{
+    "gridSize": 6,
+    "solutions": [
+        {
+            "word": "-ring-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55618
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "e2dd20e5724384b11905a44da19ef66e"
+                }
+            ]
+        },
+        {
+            "word": "meteor",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55620
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "a30bbcf18ea114a40985607f38192184"
+                }
+            ]
+        },
+        {
+            "word": "usable",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55622
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "81e18ab90180949e48f00ffda3842bb3"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55624
+                    },
+                    "license": "Unsplash",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "delude",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55626
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "737e788cd2be24dbe98759a161d58f78"
+                }
+            ]
+        },
+        {
+            "word": "-tiled",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55628
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "4df5dcf729e3f4d7a9185fa78e53cef9"
+                }
+            ]
+        },
+        {
+            "word": "--cans",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55630
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "956ab7270894e4bddaa7544c43d5bdac"
+                }
+            ]
+        },
+        {
+            "word": "-mud--",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55632
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0eac14c9c00f448ffbb480798e6e6b15"
+                }
+            ]
+        },
+        {
+            "word": "reset-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55634
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "82d937c37d53d45eab57e5fa98536423"
+                }
+            ]
+        },
+        {
+            "word": "italic",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55636
+                    },
+                    "license": "Public Domain",
+                    "attribution": "",
+                    "UUID": "48ef2414880334d0691f039c4325f081"
+                }
+            ]
+        },
+        {
+            "word": "nebula",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55638
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "b87e2028b55c7495795d18aaa191ee7d"
+                }
+            ]
+        },
+        {
+            "word": "golden",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55640
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "74bc7c7a78c2f48cc8162a60af7b91b7"
+                }
+            ]
+        },
+        {
+            "word": "-reeds",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55642
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3b4ddc23ad8154985b0b8695f253439a"
+                }
+            ]
+        }
+    ],
+    "extraLetters": "rnnaoeghhxal"
+}

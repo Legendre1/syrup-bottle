@@ -2,46 +2,28 @@
     "gridSize": 6,
     "solutions": [
         {
-            "word": "atom--",
+            "word": "--grin",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57064
+                        "instanceID": 55538
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "ed90f7dd023d14ff89a2b28b04dada46"
+                    "UUID": "242b76230bfc44dc3a49c650bce00159"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55540
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
                 }
             ]
         },
         {
-            "word": "shrub-",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57066
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "56e5c13659ef84339a20aa36ce57a51a"
-                }
-            ]
-        },
-        {
-            "word": "huddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57068
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "cce7b0af2a570459e9e94e6ced770efa"
-                }
-            ]
-        },
-        {
-            "word": "-media",
+            "word": "-phone",
             "hintImages": [
                 {
                     "sprite": {
@@ -62,32 +44,45 @@
             ]
         },
         {
-            "word": "-balms",
+            "word": "-loose",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57070
+                        "instanceID": 55546
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "90375f85c15d04a3299ccc20cff4b665"
+                    "UUID": "7302ec464b810424c8f47fcc6842e22f"
                 }
             ]
         },
         {
-            "word": "-slept",
+            "word": "basked",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56304
+                        "instanceID": 55548
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "e3a8f571691a941cc8e98e90163429cc"
+                    "UUID": "7c019517fca8e4e4eb0152fea4cd7f75"
+                }
+            ]
+        },
+        {
+            "word": "attic-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55550
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3bbd1ae563b3746a3acc1c04abffbd3b"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56302
+                        "instanceID": 55552
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -96,32 +91,19 @@
             ]
         },
         {
-            "word": "ash---",
+            "word": "reset-",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 55426
+                        "instanceID": 55554
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "5998452c7eb46475780ce3e17c606854"
-                }
-            ]
-        },
-        {
-            "word": "thumbs",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57072
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e989d38cf3aa245ba96a36144276514e"
+                    "UUID": "227d5925dfdc6490183fb037a5fac071"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57074
+                        "instanceID": 55556
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -130,19 +112,19 @@
             ]
         },
         {
-            "word": "ordeal",
+            "word": "---bar",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57076
+                        "instanceID": 55558
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "05ce96402241a428da43135ddc0746a3"
+                    "UUID": "558bbf90cf3dd4996b7e45d6a1cfdd7b"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57078
+                        "instanceID": 55560
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -151,19 +133,19 @@
             ]
         },
         {
-            "word": "muddle",
+            "word": "-plate",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57080
+                        "instanceID": 55562
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "72d1e486e41f24b99b127ded7d792eca"
+                    "UUID": "b20c2028fd143485993d10f113125f32"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57082
+                        "instanceID": 55564
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -172,39 +154,73 @@
             ]
         },
         {
-            "word": "-blimp",
+            "word": "ghosts",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57084
+                        "instanceID": 55566
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "a88a3ea711dc443feb938c6cb2ad132f"
+                    "UUID": "2150259364a67413b9ceeaa61621c788"
                 }
             ]
         },
         {
-            "word": "--east",
+            "word": "rookie",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57086
+                        "instanceID": 55568
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "f01957dd957d940edb32e93fd1ff1e7f"
+                    "UUID": "8714507a3c3524b58a3f35919c259f56"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57088
+                        "instanceID": 55570
                     },
                     "license": "Pexels",
                     "attribution": "",
                     "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "insect",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55572
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "a4b52489bb5b247eb8ca8d870db5a908"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55574
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "need--",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55436
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0f948cc316f8242bf9a434b8c8fe4167"
                 }
             ]
         }
     ],
-    "extraLetters": "trsnmeuchzal"
+    "extraLetters": "trsnmeuchgal"
 }

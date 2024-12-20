@@ -2,58 +2,71 @@
     "gridSize": 6,
     "solutions": [
         {
-            "word": "atom--",
+            "word": "--most",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57064
+                        "instanceID": 60158
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "ed90f7dd023d14ff89a2b28b04dada46"
+                    "UUID": "b77fdb6a3f2404876abdc6a5e16b7f22"
                 }
             ]
         },
         {
-            "word": "shrub-",
+            "word": "-ditto",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57066
+                        "instanceID": 60160
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "56e5c13659ef84339a20aa36ce57a51a"
+                    "UUID": "945ce578b62944b4780d7c636afbb377"
                 }
             ]
         },
         {
-            "word": "huddle",
+            "word": "mentor",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57068
+                        "instanceID": 60162
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "cce7b0af2a570459e9e94e6ced770efa"
+                    "UUID": "8e7dab6b3d4d849dfa0cc0fbaddc1913"
                 }
             ]
         },
         {
-            "word": "-media",
+            "word": "ulcers",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 55542
+                        "instanceID": 58196
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "03c1e9b82a4394587964a4fbc1499e62"
+                    "UUID": "031a37911217947cf9c1c43f65564834"
+                }
+            ]
+        },
+        {
+            "word": "stereo",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 56900
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "6d47bf07e9f334a51802904bd7e8d3d5"
                 },
                 {
                     "sprite": {
-                        "instanceID": 55544
+                        "instanceID": 60164
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -62,32 +75,32 @@
             ]
         },
         {
-            "word": "-balms",
+            "word": "sad---",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57070
+                        "instanceID": 60166
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "90375f85c15d04a3299ccc20cff4b665"
+                    "UUID": "487b4a6d172e84cd980b73db03fd7f8a"
                 }
             ]
         },
         {
-            "word": "-slept",
+            "word": "--muss",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56304
+                        "instanceID": 60168
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "e3a8f571691a941cc8e98e90163429cc"
+                    "UUID": "0a2102ef141f04ef99576bb2e908ad7c"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56302
+                        "instanceID": 60170
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -96,32 +109,19 @@
             ]
         },
         {
-            "word": "ash---",
+            "word": "-delta",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 55426
+                        "instanceID": 60172
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "5998452c7eb46475780ce3e17c606854"
-                }
-            ]
-        },
-        {
-            "word": "thumbs",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57072
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e989d38cf3aa245ba96a36144276514e"
+                    "UUID": "57edd400a08864a2d957659fda3d016f"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57074
+                        "instanceID": 60174
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -130,81 +130,57 @@
             ]
         },
         {
-            "word": "ordeal",
+            "word": "minced",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57076
+                        "instanceID": 58986
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "05ce96402241a428da43135ddc0746a3"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57078
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
+                    "UUID": "ba811134fe9994303aaa054eb2c0becd"
                 }
             ]
         },
         {
-            "word": "muddle",
+            "word": "otter-",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57080
+                        "instanceID": 58006
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "72d1e486e41f24b99b127ded7d792eca"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57082
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
+                    "UUID": "c80d6b1cf81274fbf8a6e506aa51d4ed"
                 }
             ]
         },
         {
-            "word": "-blimp",
+            "word": "store-",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57084
+                        "instanceID": 60176
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "a88a3ea711dc443feb938c6cb2ad132f"
+                    "UUID": "0708511723fa44fcdbd0680982171d49"
                 }
             ]
         },
         {
-            "word": "--east",
+            "word": "torso-",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57086
+                        "instanceID": 55912
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "f01957dd957d940edb32e93fd1ff1e7f"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57088
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
+                    "UUID": "f577fef64709e458aba050caafb0c7be"
                 }
             ]
         }
     ],
-    "extraLetters": "trsnmeuchzal"
+    "extraLetters": "jrsnmidfhwal"
 }

@@ -2,58 +2,19 @@
     "gridSize": 6,
     "solutions": [
         {
-            "word": "atom--",
+            "word": "---hoe",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57064
+                        "instanceID": 59502
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "ed90f7dd023d14ff89a2b28b04dada46"
-                }
-            ]
-        },
-        {
-            "word": "shrub-",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57066
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "56e5c13659ef84339a20aa36ce57a51a"
-                }
-            ]
-        },
-        {
-            "word": "huddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57068
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "cce7b0af2a570459e9e94e6ced770efa"
-                }
-            ]
-        },
-        {
-            "word": "-media",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55542
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "03c1e9b82a4394587964a4fbc1499e62"
+                    "UUID": "be30cb74886b6422daf2b897f751d06a"
                 },
                 {
                     "sprite": {
-                        "instanceID": 55544
+                        "instanceID": 59504
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -62,32 +23,19 @@
             ]
         },
         {
-            "word": "-balms",
+            "word": "-spots",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57070
+                        "instanceID": 58786
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "90375f85c15d04a3299ccc20cff4b665"
-                }
-            ]
-        },
-        {
-            "word": "-slept",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56304
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e3a8f571691a941cc8e98e90163429cc"
+                    "UUID": "c76ebd0cdff6f416fa343f4ee08cb915"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56302
+                        "instanceID": 59506
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -96,32 +44,19 @@
             ]
         },
         {
-            "word": "ash---",
+            "word": "sports",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 55426
+                        "instanceID": 55568
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "5998452c7eb46475780ce3e17c606854"
-                }
-            ]
-        },
-        {
-            "word": "thumbs",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57072
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e989d38cf3aa245ba96a36144276514e"
+                    "UUID": "8714507a3c3524b58a3f35919c259f56"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57074
+                        "instanceID": 59460
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -130,19 +65,53 @@
             ]
         },
         {
-            "word": "ordeal",
+            "word": "cornea",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57076
+                        "instanceID": 59508
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "05ce96402241a428da43135ddc0746a3"
+                    "UUID": "75d76fc1d15374736840f51a3e86e059"
+                }
+            ]
+        },
+        {
+            "word": "artery",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 59510
+                    },
+                    "license": "Unsplash",
+                    "attribution": "Robina Weermeijer",
+                    "UUID": "e8399fcbe5cf244bdacbd272d0282fa7"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57078
+                        "instanceID": 56720
+                    },
+                    "license": "Unsplash",
+                    "attribution": "Robina Weermeijer",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "best--",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55982
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "3aa87447d0ee34f70a09e461a5e10f0b"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55812
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -151,19 +120,19 @@
             ]
         },
         {
-            "word": "muddle",
+            "word": "--scab",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57080
+                        "instanceID": 58344
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "72d1e486e41f24b99b127ded7d792eca"
+                    "UUID": "197edcced05194f98b71dc50206fb126"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57082
+                        "instanceID": 59512
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -172,32 +141,87 @@
             ]
         },
         {
-            "word": "-blimp",
+            "word": "-spore",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57084
+                        "instanceID": 59514
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "a88a3ea711dc443feb938c6cb2ad132f"
+                    "UUID": "1062299701d2445aabd7c03801ae6f96"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 59516
+                    },
+                    "license": "CC BY-SA 3.0",
+                    "attribution": "Kristian Peters",
+                    "UUID": ""
                 }
             ]
         },
         {
-            "word": "--east",
+            "word": "-ports",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57086
+                        "instanceID": 59518
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "f01957dd957d940edb32e93fd1ff1e7f"
+                    "UUID": "c1d881d24ceb547d6bed1fbc38e31a26"
                 },
                 {
                     "sprite": {
-                        "instanceID": 57088
+                        "instanceID": 59140
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "hornet",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57344
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ec931e216e2be49d1ae62eb61f0aa647"
+                }
+            ]
+        },
+        {
+            "word": "otter-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58006
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c80d6b1cf81274fbf8a6e506aa51d4ed"
+                }
+            ]
+        },
+        {
+            "word": "essay-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 59520
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "77620d52f5b5e4bcd875bcd196a105ac"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 56420
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -206,5 +230,5 @@
             ]
         }
     ],
-    "extraLetters": "trsnmeuchzal"
+    "extraLetters": "trsnbpjeujhl"
 }

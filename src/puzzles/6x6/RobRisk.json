@@ -2,58 +2,105 @@
     "gridSize": 6,
     "solutions": [
         {
-            "word": "atom--",
+            "word": "rob---",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57064
+                        "instanceID": 57996
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "ed90f7dd023d14ff89a2b28b04dada46"
+                    "UUID": "934a33c145c8d4727b599c2bc0fed97d"
                 }
             ]
         },
         {
-            "word": "shrub-",
+            "word": "italic",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57066
+                        "instanceID": 55892
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "56e5c13659ef84339a20aa36ce57a51a"
-                }
-            ]
-        },
-        {
-            "word": "huddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57068
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "cce7b0af2a570459e9e94e6ced770efa"
-                }
-            ]
-        },
-        {
-            "word": "-media",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55542
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "03c1e9b82a4394587964a4fbc1499e62"
+                    "UUID": "a87158a8644db4b28920947d85d55d83"
                 },
                 {
                     "sprite": {
-                        "instanceID": 55544
+                        "instanceID": 55636
+                    },
+                    "license": "Public Domain",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "stride",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57998
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "7f31e9b9f35c84927ae0ecc180fea8fe"
+                }
+            ]
+        },
+        {
+            "word": "kernel",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58000
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "5d9e0dc500eba4a81aad13e71986cb64"
+                }
+            ]
+        },
+        {
+            "word": "-regal",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55980
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "1e47611b91c6042df8ef01521223a1d0"
+                }
+            ]
+        },
+        {
+            "word": "--loss",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58002
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ec4813b2b04af4c8a9fb45f38d4bcaf1"
+                }
+            ]
+        },
+        {
+            "word": "risk--",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58004
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "ce998908c7dd14ac18a597d353c68914"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 55512
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -62,142 +109,71 @@
             ]
         },
         {
-            "word": "-balms",
+            "word": "otter-",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57070
+                        "instanceID": 58006
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "90375f85c15d04a3299ccc20cff4b665"
+                    "UUID": "c80d6b1cf81274fbf8a6e506aa51d4ed"
                 }
             ]
         },
         {
-            "word": "-slept",
+            "word": "barrel",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 56304
+                        "instanceID": 55952
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "e3a8f571691a941cc8e98e90163429cc"
+                    "UUID": "e7d1746494867492da170c2b9fe15600"
+                }
+            ]
+        },
+        {
+            "word": "-lingo",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58008
+                    },
+                    "license": "Unsplash",
+                    "attribution": "",
+                    "UUID": "d0ebc4ede2eaa4d5ab0e1e9202331df5"
+                }
+            ]
+        },
+        {
+            "word": "-ideas",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57540
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "c0beb6a72797a42a2987f30c20e787c4"
+                }
+            ]
+        },
+        {
+            "word": "-cells",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 58010
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "e8fd959dd45af44959937ea82f557036"
                 },
                 {
                     "sprite": {
-                        "instanceID": 56302
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "ash---",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55426
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "5998452c7eb46475780ce3e17c606854"
-                }
-            ]
-        },
-        {
-            "word": "thumbs",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57072
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e989d38cf3aa245ba96a36144276514e"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57074
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "ordeal",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57076
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "05ce96402241a428da43135ddc0746a3"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57078
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "muddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57080
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "72d1e486e41f24b99b127ded7d792eca"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57082
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "-blimp",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57084
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "a88a3ea711dc443feb938c6cb2ad132f"
-                }
-            ]
-        },
-        {
-            "word": "--east",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57086
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "f01957dd957d940edb32e93fd1ff1e7f"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57088
+                        "instanceID": 58012
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -206,5 +182,5 @@
             ]
         }
     ],
-    "extraLetters": "trsnmeuchzal"
+    "extraLetters": "srsjmemchnal"
 }

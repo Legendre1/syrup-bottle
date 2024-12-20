@@ -2,58 +2,19 @@
     "gridSize": 6,
     "solutions": [
         {
-            "word": "atom--",
+            "word": "---dip",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57064
+                        "instanceID": 57804
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "ed90f7dd023d14ff89a2b28b04dada46"
-                }
-            ]
-        },
-        {
-            "word": "shrub-",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57066
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "56e5c13659ef84339a20aa36ce57a51a"
-                }
-            ]
-        },
-        {
-            "word": "huddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57068
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "cce7b0af2a570459e9e94e6ced770efa"
-                }
-            ]
-        },
-        {
-            "word": "-media",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55542
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "03c1e9b82a4394587964a4fbc1499e62"
+                    "UUID": "4137d64ff6c9b4f7488e877c925886f7"
                 },
                 {
                     "sprite": {
-                        "instanceID": 55544
+                        "instanceID": 56852
                     },
                     "license": "Pexels",
                     "attribution": "",
@@ -62,138 +23,15 @@
             ]
         },
         {
-            "word": "-balms",
+            "word": "-china",
             "hintImages": [
                 {
                     "sprite": {
-                        "instanceID": 57070
+                        "instanceID": 57806
                     },
                     "license": "Pexels",
                     "attribution": "",
-                    "UUID": "90375f85c15d04a3299ccc20cff4b665"
-                }
-            ]
-        },
-        {
-            "word": "-slept",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 56304
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e3a8f571691a941cc8e98e90163429cc"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 56302
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "ash---",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 55426
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "5998452c7eb46475780ce3e17c606854"
-                }
-            ]
-        },
-        {
-            "word": "thumbs",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57072
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "e989d38cf3aa245ba96a36144276514e"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57074
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "ordeal",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57076
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "05ce96402241a428da43135ddc0746a3"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57078
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "muddle",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57080
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "72d1e486e41f24b99b127ded7d792eca"
-                },
-                {
-                    "sprite": {
-                        "instanceID": 57082
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": ""
-                }
-            ]
-        },
-        {
-            "word": "-blimp",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57084
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "a88a3ea711dc443feb938c6cb2ad132f"
-                }
-            ]
-        },
-        {
-            "word": "--east",
-            "hintImages": [
-                {
-                    "sprite": {
-                        "instanceID": 57086
-                    },
-                    "license": "Pexels",
-                    "attribution": "",
-                    "UUID": "f01957dd957d940edb32e93fd1ff1e7f"
+                    "UUID": "8877bc6760f084b9eaa1665c5c2797de"
                 },
                 {
                     "sprite": {
@@ -204,7 +42,169 @@
                     "UUID": ""
                 }
             ]
+        },
+        {
+            "word": "royals",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55980
+                    },
+                    "license": "Unsplash",
+                    "attribution": "Annie Spratt",
+                    "UUID": "1e47611b91c6042df8ef01521223a1d0"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57808
+                    },
+                    "license": "Unsplash",
+                    "attribution": "Annie Spratt",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "omelet",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57810
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "4f6eeb8a47adb484888d424ea879526d"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57812
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "denote",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57814
+                    },
+                    "license": "Unsplash",
+                    "attribution": "Mick Haupt",
+                    "UUID": "84448079e070f4b8d9863821a7fc324b"
+                }
+            ]
+        },
+        {
+            "word": "stag--",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 55958
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "4d328bbd581b24832b307ee9985978c0"
+                }
+            ]
+        },
+        {
+            "word": "--rods",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57816
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "74aa81b0939d44116a8ac6c5915c5e81"
+                }
+            ]
+        },
+        {
+            "word": "-comet",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57818
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "7f26e9d9262ec433bbf0741972435d6c"
+                }
+            ]
+        },
+        {
+            "word": "-hyena",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57820
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "93ac1b9dd097f494e8b3fb8f0698d4b9"
+                }
+            ]
+        },
+        {
+            "word": "dialog",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57822
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "5ad8bd1fc8fd44efca1b7ea9ce1e304b"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57824
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
+        },
+        {
+            "word": "inlet-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57826
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "0e8bdeff151ec4d7da0b963982438acf"
+                }
+            ]
+        },
+        {
+            "word": "paste-",
+            "hintImages": [
+                {
+                    "sprite": {
+                        "instanceID": 57828
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": "4ca00386d0c124dc4b39f3b9417d8e71"
+                },
+                {
+                    "sprite": {
+                        "instanceID": 57830
+                    },
+                    "license": "Pexels",
+                    "attribution": "",
+                    "UUID": ""
+                }
+            ]
         }
     ],
-    "extraLetters": "trsnmeuchzal"
+    "extraLetters": "tropjeuchbal"
 }
