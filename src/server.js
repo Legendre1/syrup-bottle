@@ -5,7 +5,7 @@ import { indexedPuzzles } from './indexed-puzzles.js';
 import { getPuzzleForDay } from './puzzle-schedule.js';
 
 const fastify = Fastify({
-  logger: true
+  logger: true,
 })
 
 const loadPuzzleByPath = ((path) => {
@@ -18,6 +18,31 @@ await fastify.register(cors, {
     origin: '*'
   })
 
+
+fastify.route({
+    method: 'GET',
+    url: '/health-check',
+    schema: {
+      querystring: {
+        type: 'object',
+
+      },
+      response: {
+        200: {
+          type: 'object',
+          properties: {
+            status: { type: 'string' }
+          }
+        }
+      }
+    },
+    preHandler: async (request, reply) => {
+      // E.g. check authentication
+    },
+    handler: async (request, reply) => {
+      return { 'status' : 'okay' }
+    }
+  })
 
 fastify.route({
     method: 'GET',
