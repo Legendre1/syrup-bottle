@@ -67,7 +67,11 @@ fastify.route({
     handler: async (request, reply) => {
       const now = new Date(); 
       const timestamp = now.getTime();
-      const puzzleIndex = getPuzzleForDay(timestamp);
+      let puzzleIndex = getPuzzleForDay(timestamp);
+      console.log("puzzle Index " + puzzleIndex)
+      while(puzzleIndex >= indexedPuzzles.length){
+        puzzleIndex -= indexedPuzzles.length;
+      }
       return loadPuzzleByPath(indexedPuzzles[puzzleIndex])
     }
   })
